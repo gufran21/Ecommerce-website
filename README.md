@@ -3,11 +3,11 @@ This project is a simple e-commerce frontend application built using React.js an
 ![image 1](https://github.com/gufran21/Ecommerce-website/assets/111707501/969a7122-5dcf-4613-a522-4ed9020a9f6e)
 
 ## Features
-**Product Display:** Show all products from the FakeStoreAPI.
-**Category Filter:** Filter products based on categories.
-**Add to Cart:** Add selected products to the shopping cart.
-**Delete from Cart:** Remove products from the shopping cart.
-**View Cart:** Display all products added to the cart.
+- **Product Display:** Show all products from the FakeStoreAPI.
+- **Category Filter:** Filter products based on categories.
+- **Add to Cart:** Add selected products to the shopping cart.
+- **Delete from Cart:** Remove products from the shopping cart.
+- **View Cart:** Display all products added to the cart.
 
 
 ##Installation
@@ -29,9 +29,9 @@ npm start
 The application will be available at http://localhost:3000.
 
 ## Dependencies
-**React:** JavaScript library for building user interfaces.
-**React Router:** Declarative routing for React applications.
-**Context API:** State management solution built into React.
+- **React:** JavaScript library for building user interfaces.
+- **React Router:** Declarative routing for React applications.
+- **Context API:** State management solution built into React.
 
 
 ## Contributing
