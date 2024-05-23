@@ -1,5 +1,6 @@
 # E-commerce Frontend Website in React.js
 This project is a simple e-commerce frontend application built using React.js and the FakeStoreAPI as the backend. The application allows users to browse products, filter them by category, add items to the cart, and remove items from the cart.
+![image 1](https://github.com/gufran21/Ecommerce-website/assets/111707501/969a7122-5dcf-4613-a522-4ed9020a9f6e)
 
 ## Features
 **Product Display:** Show all products from the FakeStoreAPI.
