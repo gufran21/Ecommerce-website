@@ -14,7 +14,7 @@ This project is a simple e-commerce frontend application built using React.js an
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/e-commerce-frontend.git
+git clone https://github.com/gufran21/Ecommerce-website.git
 cd e-commerce-frontend
 ```
 Install dependencies
